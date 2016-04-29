@@ -1,8 +1,7 @@
 # Getting_and_Cleaning_Data
 ##Repository for Getting and Cleaning Data Assignment
 <br />
-The following explains how all of the scripts work and how they are connected
-<br  />
+
 Scripts in this repository (in the order in which they function):
 *	“Download_Unzip.R”
 *	“run_analysis.R”
